@@ -13,6 +13,20 @@ Using API
 ```sh
 $ python twitterapi.py
 ```
+#Using Github API
+
+#### Installing Requirements
+Installing Github3 wrapper
+```sh
+$ sudo pip install github3.py
+```
+
+Using API
+- Run the python module
+```sh
+$ python githubapi.py
+```
+
 - Please copy the pincode given by twitter in terminal
 - Now your Information will be displayed with your last tweet
 - You can use functions avaiable in api for getting access token of user for this app
