@@ -31,6 +31,18 @@ $ python githubapi.py
 - Now your Information will be displayed with your last tweet
 - You can use functions avaiable in api for getting access token of user for this app
 
+#Using Google API
+
+#### Installing Requirements
+Installing Python modules for Google api
+```sh
+$ sudo pip install requests google-api-python-client
+```
+Using API
+- Run the python module first:
+```sh
+$ python google+.py
+
 
 ### TODO List:
 
