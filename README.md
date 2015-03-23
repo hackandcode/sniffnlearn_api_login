@@ -37,3 +37,4 @@ $ python githubapi.py
 - [X] Google
 - [X] Twitter
 - [ ] Facebook
+- [X] Github
