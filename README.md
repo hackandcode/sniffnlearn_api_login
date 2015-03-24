@@ -13,13 +13,40 @@ Using API
 ```sh
 $ python twitterapi.py
 ```
+#Using Github API
+
+#### Installing Requirements
+Installing Github3 wrapper
+```sh
+$ sudo pip install github3.py
+```
+
+Using API
+- Run the python module
+```sh
+$ python githubapi.py
+```
+
 - Please copy the pincode given by twitter in terminal
 - Now your Information will be displayed with your last tweet
 - You can use functions avaiable in api for getting access token of user for this app
 
+#Using Google API
+
+#### Installing Requirements
+Installing Python modules for Google api
+```sh
+$ sudo pip install requests google-api-python-client
+```
+Using API
+- Run the python module first:
+```sh
+$ python google+.py
+```
 
 ### TODO List:
 
 - [X] Google
 - [X] Twitter
 - [ ] Facebook
+- [X] Github
